@@ -1,6 +1,6 @@
 syntax on
-set ruler
-set autoindent
 set number
+set autoindent
+set ruler
 set ignorecase
 color elflord
